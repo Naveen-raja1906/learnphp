@@ -12,7 +12,7 @@
 </form>
 
 <h2>Download Image here</h2>
-<a href="index.php?file=pic.jpg">
+<a href="index.php?file=pic.jpg">click here</a>
 
 
 <? php
